@@ -1,0 +1,6 @@
+{
+  "name": "FanCode Live - Sports Streaming & Scores",
+  "description": "Live sports streaming platform with real-time match scores, schedule, HLS video player, and multi-sport tournament coverage in vibrant orange and white.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
